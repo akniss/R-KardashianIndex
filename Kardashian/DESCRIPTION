@@ -1,0 +1,9 @@
+Package: Kardashian
+Type: Package
+Title: Calculates the K-index by Hall (2014)
+Version: 1.0
+Date: 2014-07-29
+Author: Andrew Kniss
+Maintainer: Andrew Kniss <akniss@uwyo.edu>
+Description: Only provides 1 function, Kindex(), which calculates the Kardashian index proposed by Hall (2014). 
+License: GPL-2
